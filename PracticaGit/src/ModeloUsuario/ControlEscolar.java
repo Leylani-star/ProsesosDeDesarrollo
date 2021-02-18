@@ -1,6 +1,6 @@
 package ModeloUsuario;
 import java.util.*;
-
+/*LEY
 /**
  * 
  */
