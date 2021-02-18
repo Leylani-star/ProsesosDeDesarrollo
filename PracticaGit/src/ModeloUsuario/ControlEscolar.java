@@ -12,4 +12,11 @@ public class ControlEscolar extends Usuario {
     public ControlEscolar() {
     }
 
+    /**
+     * Default constructor
+     */
+    public void ControlEscolar() {
+        // TODO implement here
+    }
+
 }
