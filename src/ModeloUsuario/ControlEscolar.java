@@ -1,7 +1,7 @@
 package ModeloUsuario;
 
 import java.util.*;
-
+ 
 /**
  * 
  */
